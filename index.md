@@ -19,7 +19,7 @@ Certified *Cool*
 
 You can reach me with the following:
 
-- Email: [`myemail@email.com`](mailto:myemail@email.com)
+- Email: [`email@example.com`](mailto:email@example.com)
 - Phone: `555-123-4567`
 
 ## Fun Facts About Me
