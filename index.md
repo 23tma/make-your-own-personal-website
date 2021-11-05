@@ -7,6 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Awards and Recognitions
+
+One of 356 perfect scorers on the AP® Computer Science A 2021 Exam
+Certified Cisco Network Associate
+Certified *Cool*
+
 ## Contact Information
 
 You can reach me with the following:
